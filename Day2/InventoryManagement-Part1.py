@@ -1,4 +1,4 @@
-#Not very pretty, could improve neatness and efficiency 
+#not very pretty, and I probably took the most roundabout way of doing this
 data = open("InventoryInput.txt","r")
 split = []
 three = 0
