@@ -1,4 +1,4 @@
-#Really need to revisit, couldve been done easier and neater
+#really need to revisit, couldve been done easier and neater
 data = open("AlchemicInput.txt","r").read().split()
 h = ['q']
 for i in data:
