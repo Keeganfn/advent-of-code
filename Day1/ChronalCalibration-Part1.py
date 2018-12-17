@@ -1,4 +1,4 @@
-#There are ways to condense this
+#there are ways to condense this
 final = 0
 data = open("input.txt","r")
 
